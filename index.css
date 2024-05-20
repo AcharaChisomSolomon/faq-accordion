@@ -31,8 +31,7 @@ body {
     font-family: var(--font-family);
     background: url(./assets/images/background-pattern-desktop.svg) no-repeat top var(--body-bg);
     min-height: 100vh;
-    padding: 0 1.5rem;
-    margin: clamp(8.91rem, 8.360704225352112rem + 2.3436619718309863vw, 10.47rem) 0;
+    padding: clamp(8.91rem, 8.360704225352112rem + 2.3436619718309863vw, 10.47rem) 1.5rem;
 }
 img {
     width: 100%;
